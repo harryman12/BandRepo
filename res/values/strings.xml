@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Guns and roses</item>
+        <item>Black Sabbath</item>
+        <item>Van Halen</item>
+        <item>Metallica</item>
+        <item>The Who</item>
+        <item>Mozart</item>
+        <item>R.E.M</item>
+        <item>Fleetwood Mac</item>
+        <item>Bee Gees</item>
+        <item>Smashing Pumpkins</item>
+        <item>Bon Jovi</item>
+        <item>The Police</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>Amreican rock band formed in 1982.</item>
+        <item>American hard rock band formed in 1985</item>
+        <item>English rock band formed in 1968</item>
+        <item>American rock band formed in 1973</item>
+        <item>American hard rock band formed in 1981</item>
+        <item>Some band formed in 1964</item>
+        <item>Some old guy from a long time ago</item>
+        <item>Losing my religion... whatever</item>
+        <item>Chains and it breaks</item>
+        <item>Musical group formed in 1958</item>
+        <item>Some rat dude complaining</item>
+        <item>Chefs kiss</item>
+        <item>Bottle communication is inefficient</item>
+    </string-array>
+</resources>
